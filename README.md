@@ -16,3 +16,5 @@ curl https://pastebin.com/VJvHXUyb
 
 
 docker build --tag arm-java11:latest .
+
+And change the docker image from ur minecraft server to arm-java11:latest
