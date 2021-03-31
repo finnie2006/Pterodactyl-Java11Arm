@@ -5,7 +5,10 @@ A arm image for java 11 Arm
 Install Guide: 
 cd
 mkdir image
+
+
 curl https://pastebin.com/2iZehuf5
+
 curl https://pastebin.com/VJvHXUyb
 
 
