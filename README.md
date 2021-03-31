@@ -1,10 +1,10 @@
 # Pterodactyl-Java11Arm
-A arm image for java 11 arm
+A arm image for java 11 Arm
 Install Guide: 
 cd
 mkdir image
 curl https://pastebin.com/2iZehuf5
-curl 
+curl https://pastebin.com/VJvHXUyb
 
 
 
