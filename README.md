@@ -9,9 +9,9 @@ cd
 mkdir image
 
 
-curl https://pastebin.com/2iZehuf5
+curl -Lo Dockerfile https://ptero.co/raw/ovipiwagul.sql
 
-curl https://pastebin.com/VJvHXUyb
+curl -Lo entrypoint.sh https://ptero.co/raw/habavojabu.bash
 
 
 
