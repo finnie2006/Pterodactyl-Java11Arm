@@ -8,6 +8,8 @@ cd
 
 mkdir image
 
+cd image
+
 
 curl -Lo Dockerfile https://ptero.co/raw/ovipiwagul.sql
 
