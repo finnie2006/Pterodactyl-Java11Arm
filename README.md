@@ -1,5 +1,5 @@
-# Pterodactyl-Java11Arm
-A arm image for java 11 Arm
+# Pterodactyl Java11Arm
+A arm image for java 11
 
 
 Install Guide: 
