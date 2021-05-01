@@ -20,3 +20,7 @@ curl -Lo entrypoint.sh https://ptero.co/raw/habavojabu.bash
 docker build --tag arm-java11:latest .
 
 And change the docker image from ur minecraft server to arm-java11:latest
+
+
+
+Make sure u run the command as root or With sudo 
