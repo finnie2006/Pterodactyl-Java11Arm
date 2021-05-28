@@ -1,4 +1,4 @@
-FROM        arm64v8/openjdk:11.0.10-buster
+FROM        arm64v8/openjdk:16.0.1-buster
 
 RUN apt-get update -y \
  && apt-get install -y curl ca-certificates openssl git tar sqlite fontconfig tzdata iproute2 \
