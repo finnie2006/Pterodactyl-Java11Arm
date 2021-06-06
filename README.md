@@ -1,26 +1,7 @@
-# Pterodactyl Java11Arm
-A arm image for java 11
+# Pterodactyl Java16Arm
+A arm image for java 16
 
 
 Install Guide: 
 
-cd
-
-mkdir image
-
-cd image
-
-
-curl -Lo Dockerfile https://ptero.co/raw/ovipiwagul.sql
-
-curl -Lo entrypoint.sh https://ptero.co/raw/habavojabu.bash
-
-
-
-docker build --tag arm-java11:latest .
-
-And change the docker image from ur minecraft server to arm-java11:latest
-
-
-
-Make sure u run the command as root or With sudo 
+bash <(curl -sSL https://raw.githubusercontent.com/finnie2006/Pterodactyl-Java11Arm/main/install.sh)
