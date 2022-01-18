@@ -1,3 +1,6 @@
+# Archives outdates, and its just bad
+
+
 # Pterodactyl Java16Arm
 A arm image for java 16
 
